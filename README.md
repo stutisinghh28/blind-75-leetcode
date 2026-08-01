@@ -2,7 +2,7 @@
 
 A curated list of the Blind 75 LeetCode problems for coding interviews. Fork this repo and tick off problems as you solve them. Happy coding! 🚀
 
----
+--- 
 
 ## Array
 - [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
