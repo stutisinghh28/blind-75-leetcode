@@ -6,11 +6,11 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 
 ## Array
 - [X] [Two Sum](https://leetcode.com/problems/two-sum/)[DONE]
-- [] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)[DONE]
-- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)[DONE]
-- [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)[DONE]
-- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)[DONE]
-- [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)[DONE]
+- [X] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)[DONE]
+- [X] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)[DONE]
+- [X] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)[DONE]
+- [X] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)[DONE]
+- [X] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)[DONE]
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] [3Sum](https://leetcode.com/problems/3sum/)
@@ -30,14 +30,14 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 ## Dynamic Programming
 - [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
-- [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)[DONE]
-- [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)[DONE]
+- [X] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)[DONE]
+- [X] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)[DONE]
 - [ ] [Word Break](https://leetcode.com/problems/word-break/)
 - [ ] [Combination Sum](https://leetcode.com/problems/combination-sum-iv/)
 - [ ] [House Robber](https://leetcode.com/problems/house-robber/)
 - [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/)
-- [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)[DONE]
+- [X] [Unique Paths](https://leetcode.com/problems/unique-paths/)[DONE]
 - [ ] [Jump Game](https://leetcode.com/problems/jump-game/)
 
 ---
@@ -82,13 +82,13 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 ---
 
 ## String
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)[DONE]
+- [X] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)[DONE]
 - [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
-- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)[DONE]
-- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)[DONE]
+- [X] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+- [X] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)[DONE]
+- [X] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)[DONE]
 - [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)[DONE]
+- [X] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)[DONE]
 - [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 - [ ] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) *(LeetCode Premium)*
